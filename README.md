@@ -1,2 +1,2 @@
 # odin-recipes
-The Odin Project: Recipe Project.
+Repo for my runthrough of The Odin Project.
